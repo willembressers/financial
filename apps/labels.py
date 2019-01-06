@@ -32,7 +32,7 @@ def generate_graph(df):
 
 
 data = pd.\
-    read_csv('anotated.csv', encoding="ISO-8859-1").\
+    read_csv('data/anotated.csv', encoding="ISO-8859-1").\
     add_date_columns()
 
 pivoted = data.\
