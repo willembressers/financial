@@ -18,7 +18,7 @@ def generate_graph(df):
 
 
 data = pd.\
-    read_csv('data/anotated.csv', encoding="ISO-8859-1").\
+    read_csv('data/annotated-example.csv', encoding="ISO-8859-1").\
     add_date_columns()
 
 data['period'] = data['date'].dt.to_period("M").map(str)

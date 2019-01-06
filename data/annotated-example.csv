@@ -1,0 +1,10 @@
+date,amount,counterparty,label,description
+2014-01-01,2000,Employer,income,some description
+2014-01-01,-130.36,rabobank,mortgage,some description
+2014-01-01,-50.0,albert heijn,groceries,another description
+2014-01-01,-25.0,jumbo,groceries,another description
+2014-01-02,-51.91,t-mobile netherlands,phone,invoice 123
+2014-02-01,2000,Employer,income,some description
+2014-02-01,-130.36,rabobank,mortgage,some description
+2014-02-01,-48.35,albert heijn,groceries,another description
+2014-02-02,-51.91,t-mobile netherlands,phone,invoice 123
